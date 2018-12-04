@@ -16,7 +16,7 @@ $ export REDIRECT_URI=<your-redirect-uri>
 
 Make sure you have cloned this repo -
 ```bash
-$ git clone git@github.com:smartcar/getting-started-express.git
+$ git clone https://github.com/smartcar/getting-started-express.git
 $ cd getting-started-express/app
 ```
 To install the required dependencies and run this React app -
