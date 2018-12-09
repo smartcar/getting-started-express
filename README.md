@@ -19,7 +19,7 @@ Make sure you have cloned this repo -
 $ git clone https://github.com/smartcar/getting-started-express.git
 $ cd getting-started-express/app
 ```
-To install the required dependencies and run this React app -
+To install the required dependencies and run this Express app -
 ```bash
 $ npm install
 $ node index.js
