@@ -1,0 +1,11 @@
+{
+  "name": "getting-started-express",
+  "version": "1.0.0",
+  "description": "Getting Started with Smartcar and Express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "smartcar": "^4.2.1"
+  }
+}
