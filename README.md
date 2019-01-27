@@ -25,4 +25,4 @@ $ npm install
 $ node index.js
 ```
 
-Once your server is up and running, you can authenticate your vehicle at `http://localhost:8000/login` in your browser. In our current set up, we are using Smartcar's [test mode](https://smartcar.com), so you can log in with any username and password and you will see information of a simulated vehicle.
+Once your server is up and running, you can authenticate your vehicle at `http://localhost:8000/login` in your browser. In our current set up, we are using Smartcar's [test mode](https://smartcar.com/docs/guides/testing/), so you can log in with any username and password and you will see information of a simulated vehicle.
