@@ -6,6 +6,6 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
-    "smartcar": "^4.2.1"
+    "smartcar": "^7.1.0"
   }
 }
