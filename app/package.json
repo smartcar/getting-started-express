@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "Getting Started with Smartcar and Express",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^4.0.4",
     "smartcar": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
