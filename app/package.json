@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "express-handlebars": "^4.0.4",
-    "smartcar": "^7.8.1"
+    "express-handlebars": "^5.3.4",
+    "smartcar": "^8.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
