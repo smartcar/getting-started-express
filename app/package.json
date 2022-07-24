@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^5.3.4",
-    "smartcar": "^8.0.1"
+    "smartcar": "^9.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"

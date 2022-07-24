@@ -16,7 +16,7 @@ app.set('view engine', '.hbs');
 const port = 8000;
 
 const client = new smartcar.AuthClient({
-  testMode: true,
+  mode: "test",
 });
 
 // global variable to save our accessToken
