@@ -4,7 +4,7 @@
   "description": "Getting Started with Smartcar and Express",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.19.2",
     "express-handlebars": "^5.3.4",
     "smartcar": "^9.2.0"
   },
