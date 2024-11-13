@@ -26,4 +26,4 @@ $ npm start
 ```
 `note` The server will automatically restart and load any code changes you do.
 
-Once your server is up and running, you can authenticate your vehicle at `http://localhost:8000/login` in your browser. In our current set up, we are using Smartcar's [test mode](https://smartcar.com/docs/guides/testing/), so you can log in with any username and password and you will see information of a simulated vehicle.
+Once your server is up and running, you can authenticate your vehicle at `http://localhost:8000/login` in your browser. In our current set up, we are using Smartcar's [simulated mode](https://smartcar.com/docs/getting-started/dashboard/simulator), so you can log in with simulated credentials found in your Smartcar Dashboard or with any username and password.
